@@ -1,8 +1,10 @@
 # BANode
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/banode/miembros?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ## ¿Qué es?
 
-BANode intenta impulsar la comunidad Node.js en Buenos Aires, proponiendo charlas y meetups. Podés unirte tambien a nuestro grupo en Meetup [acá][1]
+BANode intenta impulsar la comunidad Node.js en Buenos Aires, proponiendo charlas y meetups. Podés unirte tambien a nuestro grupo en Meetup [acá][1].
 
 ##BANode es una comunidad OPEN Open Source. 
 

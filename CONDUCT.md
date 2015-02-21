@@ -7,7 +7,7 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 *tl:dr: No hostiguemos a la gente. Seamos educados y gentiles.*
 
-## Ayuda? Contacta al Team
+## ¿Ayuda? Contacta al Team
 
 ​   | Member           | Twitter                                 | Email
 ----|------------------|-----------------------------------------|-------------------
@@ -15,11 +15,11 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 [![@eafelix](https://avatars0.githubusercontent.com/u/7018093?v=2&s=40)](https://github.com/eafelix) | Felix Enriquez | [@eafelix](https://twitter.com/eafelix) | eafelix[at]outlook.com
 [![@bevacqua](https://avatars3.githubusercontent.com/u/934293?v=2&s=40)](https://github.com/bevacqua) | Nicolas Bevacqua | [@nzgb](https://twitter.com/nzgb)  | hello[at]bevacqua.io
 
-## Version Rapida
+## Versión Rapida
 
 NodeSchool Buenos Aires se dedica a proporcionar una experiencia libre de acoso por todo el mundo, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión. No toleramos el acoso de los participantes en cualquier forma. Los participantes que violen estas normas podrán ser sancionados o expulsados del evento según el criterio de los organizadores.
 
-## Version Completa
+## Versión Completa
 
 El acoso incluye comentarios verbales ofensivos relacionados con el género, la orientación sexual, discapacidad, apariencia física, tamaño corporal, raza, religión, exhibicionismo, intimidación deliberada, acoso, interrupción sostenida de las conversaciones u otros eventos y contacto físico inapropiado.
 

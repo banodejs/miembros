@@ -23,6 +23,7 @@ Todas las personas que soliciten ser miembros tendrán permisos de commit en est
 - [MongoDB Argentina][6]
 - [Internet of Things Buenos Aires][7]
 - [Hack/HackersBA][8]
+- [Beer.js Buenos Aires][10]
 
 ## Código de Conducta
 Encontralo [acá][3].
@@ -36,3 +37,4 @@ Encontralo [acá][3].
 [7]: http://www.meetup.com/IoT-Buenos-Aires/
 [8]: http://www.meetup.com/HacksHackersBA/
 [9]: https://github.com/banodejs/miembros/issues/new
+[10]: http://www.meetup.com/Beer-js-Buenos-Aires

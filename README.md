@@ -17,7 +17,7 @@ BA Node.js intenta impulsar la comunidad Node.js en Buenos Aires. La idea nació
 Si te interesa ser miembro, abrí un [issue][9] con el título "Miembro" y uno de los organizadores te va a agregar al equipo.
 Todas las personas que soliciten ser miembros tendrán permisos de commit en este repositorio.
 
-[!Unite al grupo de Slack!](http://meetupjs.herokuapp.com/)
+[¡Unite al grupo de Slack!](http://meetupjs.herokuapp.com/)
 
 ## Otras comunidades en Buenos Aires
 - [BAFrontend][4]

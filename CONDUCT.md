@@ -1,13 +1,13 @@
 # Código de Conducta
 
-Se requiere que todos los asistentes, expositores, patrocinadores y voluntarios en NodeSchool Buenos Aires cumplan  
-con el siguiente código de conducta. Los organizadores harán regir este código durante todo el evento.
+Se requiere que todos los asistentes, expositores, patrocinadores y voluntarios en BA Node.js Buenos Aires cumplan  
+con el siguiente código de conducta. Los organizadores se harán cargo de regir este código.
 
 Contamos con la cooperación de todos los participantes para ayudar a garantizar un entorno seguro para todos.
 
-*tl:dr: No hostiguemos a la gente. Seamos educados y gentiles.*
+*tl:dr: No hostiguemos a la gente. Seamos respetuosos, educados y gentiles.*
 
-## ¿Ayuda? Contacta al Team
+## ¿Ayuda? Contacta al equipo
 
 ​   | Member           | Twitter                                 | Email
 ----|------------------|-----------------------------------------|-------------------
@@ -17,7 +17,7 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 ## Versión Rapida
 
-NodeSchool Buenos Aires se dedica a proporcionar una experiencia libre de acoso por todo el mundo, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión. No toleramos el acoso de los participantes en cualquier forma. Los participantes que violen estas normas podrán ser sancionados o expulsados del evento según el criterio de los organizadores.
+BA Node.js Buenos Aires se propone proporcionar una experiencia libre de acoso, independientemente de su sexo, orientación sexual, discapacidad, apariencia física, tamaño corporal, raza o religión. No toleramos el acoso de los participantes en cualquier forma. Los participantes que violen estas normas podrán ser sancionados o expulsados del evento según el criterio de los organizadores.
 
 ## Versión Completa
 

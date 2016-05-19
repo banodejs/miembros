@@ -1,6 +1,6 @@
 # BA Node.js
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/banodejs/miembros?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Slack Status](http://meetupjs.herokuapp.com/badge.svg)](http://meetupjs.herokuapp.com)
 
 ## Qué es y por qué
 
